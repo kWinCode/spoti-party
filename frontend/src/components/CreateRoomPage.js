@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 import {Button, Grid, Typography, TextField, FormHelperText, FormControl, Radio, RadioGroup, FormControlLabel} from "@material-ui/core"
 import { Link } from "react-router-dom";
 
+/**
+ * This component is used to create new rooms, but also to update existing rooms
+ * f.e. in the settings of a room page
+ */
 export default class CreateRoomPage extends Component {
     defaultVotes = 2;
 
