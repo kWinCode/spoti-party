@@ -13,8 +13,8 @@ credentials.py
 *.bak 
 
 # Python # 
-*.py[cod] 
-*$py.class 
+# *.py[cod] 
+# *$py.class 
 
 # Distribution / packaging 
 .Python build/ 
@@ -77,13 +77,6 @@ venv.bak/
 
 # mypy 
 .mypy_cache/ 
-
-# Sublime Text # 
-*.tmlanguage.cache 
-*.tmPreferences.cache 
-*.stTheme.cache 
-*.sublime-workspace 
-*.sublime-project 
 
 # sftp configuration file 
 sftp-config.json 
