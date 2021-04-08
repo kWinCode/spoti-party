@@ -7,7 +7,7 @@ db.sqlite3
 media
 
 # Security Files #
-# credentials.py
+credentials.py
 
 # Backup files # 
 *.bak 
