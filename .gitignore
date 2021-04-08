@@ -13,8 +13,8 @@ credentials.py
 *.bak 
 
 # Python # 
-# *.py[cod] 
-# *$py.class 
+*.py[cod] 
+*$py.class 
 
 # Distribution / packaging 
 .Python build/ 
